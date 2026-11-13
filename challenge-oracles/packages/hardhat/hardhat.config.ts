@@ -73,7 +73,6 @@ export default defineConfig({
     sepolia: {
       type: "http",
       url: `https://eth-sepolia.g.alchemy.com/v2/${providerApiKey}`,
-      gas: 6000000,
       accounts: [deployerPrivateKey],
     },
     optimism: {
