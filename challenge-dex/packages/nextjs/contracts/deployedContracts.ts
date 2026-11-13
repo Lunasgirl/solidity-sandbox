@@ -7,7 +7,7 @@ import { GenericContractsDeclaration } from "~~/utils/scaffold-eth/contract";
 const deployedContracts = {
   11155111: {
     Balloons: {
-      address: "0xd6643b7d3ef1e1a60f317dea587cbb52c0855b99",
+      address: "0x584cddc42e2953f09e15097ce851b858c14ddc9e",
       abi: [
         {
           inputs: [],
@@ -334,10 +334,10 @@ const deployedContracts = {
         transfer: "npm/@openzeppelin/contracts@5.7.0/token/ERC20/ERC20.sol",
         transferFrom: "npm/@openzeppelin/contracts@5.7.0/token/ERC20/ERC20.sol",
       },
-      deployedOnBlock: 12096682,
+      deployedOnBlock: 12124160,
     },
     DEX: {
-      address: "0xb8d54861e1087a01be0a1a0cb18a6f904d7bf202",
+      address: "0xb6b0d3ef336a363a4483fac3423c2a39ad07684c",
       abi: [
         {
           inputs: [
@@ -729,7 +729,7 @@ const deployedContracts = {
         },
       ],
       inheritedFunctions: {},
-      deployedOnBlock: 12096683,
+      deployedOnBlock: 12124161,
     },
   },
 } as const;

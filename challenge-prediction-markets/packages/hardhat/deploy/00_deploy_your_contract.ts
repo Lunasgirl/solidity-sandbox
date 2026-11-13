@@ -18,7 +18,7 @@ export default deployScript(
   async env => {
     const { deployer } = env.namedAccounts;
 
-    const question = "Will the green car win the race?";
+    const question = "Will ETH surpass 5000 USD this year?";
     const initialLiquidity = parseEther("0.01");
     const initialTokenValue = parseEther("0.0001");
     const initialProbability = 50;

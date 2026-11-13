@@ -7,7 +7,7 @@ import { GenericContractsDeclaration } from "~~/utils/scaffold-eth/contract";
 const deployedContracts = {
   11155111: {
     DEX: {
-      address: "0x36e33e4b01ff936b29646d24341b2c40f2071c56",
+      address: "0x9187737cba25bf3cfcd03eb965f2bfe91abef506",
       abi: [
         {
           inputs: [
@@ -312,10 +312,10 @@ const deployedContracts = {
         },
       ],
       inheritedFunctions: {},
-      deployedOnBlock: 12102468,
+      deployedOnBlock: 12124900,
     },
     MyUSD: {
-      address: "0xd28996927dfecf2addb4d37c33248895943da53d",
+      address: "0x6291557ba9206115f24a0cd924429cbc7003fe67",
       abi: [
         {
           inputs: [
@@ -828,10 +828,10 @@ const deployedContracts = {
         renounceOwnership: "npm/@openzeppelin/contracts@5.7.0/access/Ownable.sol",
         transferOwnership: "npm/@openzeppelin/contracts@5.7.0/access/Ownable.sol",
       },
-      deployedOnBlock: 12102467,
+      deployedOnBlock: 12124899,
     },
     MyUSDEngine: {
-      address: "0xa49f57da90bb593a508716c64f4737895179261c",
+      address: "0x4c74e402cf86237c402b9a6b38c1667bc627e00d",
       abi: [
         {
           inputs: [
@@ -1372,10 +1372,10 @@ const deployedContracts = {
         renounceOwnership: "npm/@openzeppelin/contracts@5.7.0/access/Ownable.sol",
         transferOwnership: "npm/@openzeppelin/contracts@5.7.0/access/Ownable.sol",
       },
-      deployedOnBlock: 12102471,
+      deployedOnBlock: 12124903,
     },
     MyUSDStaking: {
-      address: "0x5733ec2ecaea406886c0952b7934e2a7e0e93109",
+      address: "0x574d6932d18664992fdadfaaa42fac165bfc587f",
       abi: [
         {
           inputs: [
@@ -1754,10 +1754,10 @@ const deployedContracts = {
         renounceOwnership: "npm/@openzeppelin/contracts@5.7.0/access/Ownable.sol",
         transferOwnership: "npm/@openzeppelin/contracts@5.7.0/access/Ownable.sol",
       },
-      deployedOnBlock: 12102470,
+      deployedOnBlock: 12124902,
     },
     Oracle: {
-      address: "0x339cfc6ffb7dc2ce200eedd7029f5466f629902f",
+      address: "0x3fd337d371c68ea8ebcee81f734974f1996df83f",
       abi: [
         {
           inputs: [
@@ -1829,10 +1829,10 @@ const deployedContracts = {
         },
       ],
       inheritedFunctions: {},
-      deployedOnBlock: 12102469,
+      deployedOnBlock: 12124901,
     },
     RateController: {
-      address: "0x32908051a347e7694fbbbac38d831ef16cb89393",
+      address: "0x7af81a32f2ab6e095bd144b08ecd76a98626f39c",
       abi: [
         {
           inputs: [
@@ -1888,7 +1888,7 @@ const deployedContracts = {
         },
       ],
       inheritedFunctions: {},
-      deployedOnBlock: 12102466,
+      deployedOnBlock: 12124898,
     },
   },
 } as const;
